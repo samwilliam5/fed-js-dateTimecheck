@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    margin: 200px 0 0 0;
+
+}
+
+#time {
+    border: solid 5px #fff;
+    padding: 20px;
+    width: 250px;
+    margin: auto;
+}
+
+#date {
+    border: solid 5px #fff;
+    padding: 20px;
+    width: 250px;
+    margin: auto;
+}
